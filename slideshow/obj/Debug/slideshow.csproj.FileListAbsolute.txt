@@ -1,0 +1,13 @@
+G:\project\CSH\slideshow\bin\Debug\slideshow.exe.config
+G:\project\CSH\slideshow\bin\Debug\slideshow.exe
+G:\project\CSH\slideshow\bin\Debug\slideshow.pdb
+G:\project\CSH\slideshow\obj\Debug\slideshow.csproj.AssemblyReference.cache
+G:\project\CSH\slideshow\obj\Debug\slideshow.Properties.Resources.resources
+G:\project\CSH\slideshow\obj\Debug\slideshow.csproj.GenerateResource.cache
+G:\project\CSH\slideshow\obj\Debug\slideshow.csproj.CoreCompileInputs.cache
+G:\project\CSH\slideshow\obj\Debug\slideshow.exe
+G:\project\CSH\slideshow\obj\Debug\slideshow.pdb
+G:\project\CSH\slideshow\obj\Debug\slideshow.Q1.resources
+G:\project\CSH\slideshow\obj\Debug\slideshow.Q2.resources
+G:\project\CSH\slideshow\obj\Debug\slideshow.Q3.resources
+G:\project\CSH\slideshow\obj\Debug\slideshow.Start.resources
